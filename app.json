@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "NexaAI",
+    "slug": "nexa-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "nexaai",
+    "plugins": [
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#8B5CF6",
+          "defaultChannel": "nexa-default"
+        }
+      ]
+    ],
+    "android": {
+      "package": "com.nexaai.smartassistant",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0614"
+      }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      }
+    }
+  }
+}
