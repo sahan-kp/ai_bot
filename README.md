@@ -4,10 +4,10 @@ A complete React Native + Expo university assignment project using JavaScript, E
 
 ## 1. Student information
 
-- Student Name: [ENTER FULL NAME]
-- Student ID: [ENTER STUDENT ID]
-- University: [ENTER UNIVERSITY NAME]
-- Module: [ENTER MODULE NAME]
+- Student Name: [M.A.S.K.Pushpawardhana]
+- Student ID: [PE/2022/027]
+- University: [Kelaniya UNIVERSITY]
+- Module: [COST 32152/COSC 32152/BECS 32272 ]
 - Demo video: [PASTE DEMO VIDEO URL]
 
 ## 2. Features
